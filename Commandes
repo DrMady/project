@@ -1,0 +1,18 @@
+J'ai utilisé les commandes suivantes pour faire cet exercice.
+
+mkdir FICHIER
+ls -l
+pwd
+cd DOSSIER / ..
+touch FICHIER
+cp
+mv
+rm FICHIER
+clear
+
+
+git add .
+git clone LIEN
+git commit -m "Commentaire"
+git push origin  
+git status
